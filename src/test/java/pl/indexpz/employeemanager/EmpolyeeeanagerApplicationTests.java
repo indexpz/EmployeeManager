@@ -1,4 +1,4 @@
-package pl.indexpz.empolyeeeanager;
+package pl.indexpz.employeemanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

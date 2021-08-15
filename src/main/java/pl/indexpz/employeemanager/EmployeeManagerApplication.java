@@ -1,13 +1,13 @@
-package pl.indexpz.empolyeeeanager;
+package pl.indexpz.employeemanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmpolyeeeanagerApplication {
+public class EmployeeManagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmpolyeeeanagerApplication.class, args);
+		SpringApplication.run(EmployeeManagerApplication.class, args);
 	}
 
 }
