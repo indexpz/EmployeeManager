@@ -1,0 +1,31 @@
+{
+"email": "daniel@wp.pl",
+"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+"jobTitle": "JavaScript",
+"name": "Daniel Craig",
+"phone": "4560090332"
+}
+
+{
+"email": "christine@wp.pl",
+"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+"jobTitle": "Java",
+"name": "Christine Smith",
+"phone": "4560090332"
+}
+
+{
+"email": "dave@wp.pl",
+"imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+"jobTitle": "Java",
+"name": "Dave Rodrigez",
+"phone": "4560090332"
+}
+
+{
+"email": "andy@wp.pl",
+"imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+"jobTitle": "SQL",
+"name": "Andy Maxwell",
+"phone": "4560090332"
+}
