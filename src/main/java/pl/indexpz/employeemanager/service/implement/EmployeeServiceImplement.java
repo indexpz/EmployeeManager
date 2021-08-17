@@ -1,5 +1,6 @@
 package pl.indexpz.employeemanager.service.implement;
 
+import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import pl.indexpz.employeemanager.exceptions.ResourceNotFoundException;
@@ -11,14 +12,10 @@ import java.util.List;
 import java.util.UUID;
 
 @Service
+@RequiredArgsConstructor
 public class EmployeeServiceImplement implements EmployeeService {
 
     private final EmployeeRepository employeeRepository;
-
-    @Autowired
-    public EmployeeServiceImplement(EmployeeRepository employeeRepository) {
-        this.employeeRepository = employeeRepository;
-    }
 
     @Override
     public Employee getEmployeeByID(Long id) {
